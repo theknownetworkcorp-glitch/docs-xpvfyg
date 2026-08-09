@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-zw8fo5.salamcuanwin.xyz/sitemap.xml
